@@ -1,9 +1,6 @@
-# Examples
+## Tables
 
-## Basic Formatting
-
-- Headings
-- Lists
-- Tables
-- Blockquotes
-- Code Blocks
+| Name | Value |
+|------|------|
+| A | 1 |
+| B | 2 |
