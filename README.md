@@ -1,2 +1,2 @@
 # markdown-notes
-A collection of Markdown examples and note-taking templates.
+This repository contains Markdown examples, templates, and formatting references.
